@@ -1,0 +1,17 @@
+<resources>
+    <string name="name_film">Judul Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="back">Kembali</string>
+    <string name="app_name">Movie Catalog</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="set_language">id-IDN-</string>
+    <string name="name">Name Film</string>
+    <string name="todo">TODO</string>
+    <string name="title_tv">Acara TV</string>
+    <string name="title_movie">Acara Film</string>
+    <string name="delete">delete</string>
+    <string name="favourit">favourit</string>
+
+
+</resources>
